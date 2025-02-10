@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+#map {
+  height: 600px;
+  width: 80%;
+  margin: auto;
+  border: 2px solid #333;
+}
+
+.legend {
+  background-color: white;
+  padding: 10px;
+  border-radius: 5px;
+  line-height: 18px;
+  color: #333;
+}
+
+.legend i {
+  width: 18px;
+  height: 18px;
+  display: inline-block;
+  margin-right: 5px;
+}
